@@ -11,5 +11,6 @@ My hobbies are scuba diving, travelling and love learning new things.
 |Pyhton| Communication|
 |PowerBI| Leadership|
 |SQL| Multiculturalism|
+|Reporting | Attention to detail|
 
 USAR O EDITOR DE MARKDOWN PRA CONTINUAR ESCREVENDO (https://jbt.github.io/markdown-editor/)
